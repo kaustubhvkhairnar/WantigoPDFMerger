@@ -16,8 +16,7 @@ Easily upload multiple PDF files, reorder them via **drag-and-drop**, remove unw
 ---
 
 ## 🖥️ Live Demo
-👉 [View on GitHub Pages](https://your-username.github.io/pdf-merger/)  
-*(replace `your-username` with your GitHub handle)*
+👉 [View on GitHub Pages](https://kaustubhvkhairnar.github.io/WantigoPDFMerger)  
 
 ---
 
